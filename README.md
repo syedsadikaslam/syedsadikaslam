@@ -51,6 +51,7 @@ PostgreSQL | Express.js | React.js | Node.js | Redux Toolkit
 - Intelligent **Top Rated Products System** using ratings & engagement metrics
 
 🛒 **Live Project:** https://sadikart.vercel.app 
+
 🛠️ **Admin Panel:** https://sadikartadmin.vercel.app 
 
 ## 📌 Other Projects
