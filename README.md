@@ -50,8 +50,8 @@ PostgreSQL | Express.js | React.js | Node.js | Redux Toolkit
 - Dynamic **New Arrivals Module**
 - Intelligent **Top Rated Products System** using ratings & engagement metrics
 
-🛒 **Live Project:** https://lnkd.in/demgiQS6  
-🛠️ **Admin Panel:** https://lnkd.in/gCnJUrBG  
+🛒 **Live Project:** adikart.vercel.app  
+🛠️ **Admin Panel:**  sadikartadmin.vercel.app  
 
 ---
 
