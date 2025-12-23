@@ -54,14 +54,13 @@ PostgreSQL | Express.js | React.js | Node.js | Redux Toolkit
 
 🛠️ **Admin Panel:** https://sadikartadmin.vercel.app 
 
+---
 
 # 🌱 FloraScan – AI Powered Plant Analysis Tool
 
 FloraScan is a **full-stack AI-powered web application** designed to analyze plant images and provide intelligent insights using modern web technologies and **Google Gemini AI**.
 
 This application allows users to upload or capture a plant image and instantly receive **AI-generated plant identification, health analysis, care recommendations, and botanical facts**.
-
----
 
 ## 🚀 Features
 
@@ -71,7 +70,6 @@ This application allows users to upload or capture a plant image and instantly r
 - 📄 **Auto-generated Downloadable PDF Plant Reports**
 - ⚡ **Fast & Responsive UI with Seamless Frontend–Backend Integration**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -93,8 +91,6 @@ This application allows users to upload or capture a plant image and instantly r
 - CORS  
 - dotenv  
 
----
-
 ## 🧠 What I Learned
 
 - Integrating AI models into real-world full-stack applications  
@@ -103,7 +99,6 @@ This application allows users to upload or capture a plant image and instantly r
 - Generating dynamic PDF reports from AI-generated responses  
 - Organizing full-stack projects with deployment readiness  
 
----
 
 ## 🌐 Live Demo
 
