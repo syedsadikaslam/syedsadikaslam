@@ -54,12 +54,65 @@ PostgreSQL | Express.js | React.js | Node.js | Redux Toolkit
 
 🛠️ **Admin Panel:** https://sadikartadmin.vercel.app 
 
-## 📌 Other Projects
 
-🔹 **MODSSER Enterprises Construction Website**  
-A professional and responsive website developed for a construction business with real-world client requirements.
+# 🌱 FloraScan – AI Powered Plant Analysis Tool
+
+FloraScan is a **full-stack AI-powered web application** designed to analyze plant images and provide intelligent insights using modern web technologies and **Google Gemini AI**.
+
+This application allows users to upload or capture a plant image and instantly receive **AI-generated plant identification, health analysis, care recommendations, and botanical facts**.
 
 ---
+
+## 🚀 Features
+
+- 🌱 **AI-based Plant Species Identification**
+- 💊 **Plant Health Analysis & Care Recommendations**
+- 📸 **Image Upload & Processing using Multer**
+- 📄 **Auto-generated Downloadable PDF Plant Reports**
+- ⚡ **Fast & Responsive UI with Seamless Frontend–Backend Integration**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+
+### Backend
+- Node.js  
+- Express.js  
+
+### AI Integration
+- Google Gemini API *(gemini-2.5-flash)*
+
+### File & Report Handling
+- Multer (Image Upload)
+- PDFKit (PDF Report Generation)
+
+### Other Tools
+- CORS  
+- dotenv  
+
+---
+
+## 🧠 What I Learned
+
+- Integrating AI models into real-world full-stack applications  
+- Secure handling of image uploads and binary data  
+- Building scalable and structured REST APIs  
+- Generating dynamic PDF reports from AI-generated responses  
+- Organizing full-stack projects with deployment readiness  
+
+---
+
+## 🌐 Live Demo
+
+🔗 **FloraScan Live:**  
+https://florascanai.vercel.app/
+
+---
+
+
 
 ## 🛠️ Skills & Technologies
 
