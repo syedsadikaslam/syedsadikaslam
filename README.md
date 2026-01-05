@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Md%20Sadik&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Sadik GitHub Profile" />
+</p>
+
 # Hi 👋, I'm Md Sadik
 
 🎓 4th Year B.Tech (Computer Science) Student  
