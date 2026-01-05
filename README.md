@@ -124,6 +124,6 @@ React.js | Express.js | Node.js | Google Gemini API *(gemini-2.5-flash)* | Multe
 I love building real-world full stack systems and turning ideas into working products 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer&text=Thank%20You&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=80"/>
 </p>
 
