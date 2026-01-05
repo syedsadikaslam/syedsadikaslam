@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Md%20Sadik&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Sadik GitHub Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=170&section=header&text=Hi%20👋,%20I'm%20Sadik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-
-# Hi 👋, I'm Md Sadik
 
 🎓 4th Year B.Tech (Computer Science) Student  
 🏫 Dr. A.P.J. Abdul Kalam Technical University  
@@ -124,3 +122,8 @@ React.js | Express.js | Node.js | Google Gemini API *(gemini-2.5-flash)* | Multe
 
 ## ⚡ Fun Fact
 I love building real-world full stack systems and turning ideas into working products 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer"/>
+</p>
+
