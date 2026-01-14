@@ -2,18 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=170&section=header&text=Hi%20👋,%20I'm%20Sadik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-🎓 4th Year B.Tech (Computer Science) Student  
-🏫 Dr. A.P.J. Abdul Kalam Technical University  
-📍 Delhi, India  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedsadikaslam&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/syedsadikaslam?label=Followers&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## 🚀 About Me
-I am a passionate Computer Science student and **Full Stack Web Developer** focused on building  
-**production-ready, scalable web applications**.
+## 👨‍💻 About Me
 
-I enjoy working across the complete development lifecycle — backend APIs, authentication systems, frontend UI, state management, and deployment.  
-Currently exploring **MERN / PERN Stack** through real-world projects.
+🎓 4th Year **B.Tech (Computer Science)** Student  
+🏫 **Dr. A.P.J. Abdul Kalam Technical University**  
+📍 **Delhi, India**
+
+I am a passionate **Full-Stack Developer** with hands-on experience in **MERN Stack** and a growing interest in **AI/ML & Generative AI**.  
+I love building **scalable web applications**, clean UI, and solving real-world problems through technology.
 
 ---
 
