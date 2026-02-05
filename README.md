@@ -10,7 +10,7 @@
 
   <a href="https://sadikaslam.in/" target="_blank">
     <img
-      src="https://img.shields.io/badge/🌐%20Portfolio-Visit-orange?style=for-the-badge"
+      src="https://img.shields.io/badge/%20Portfolio-Visit-orange?style=for-the-badge"
       height="28"
     />
   </a>
