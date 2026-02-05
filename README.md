@@ -3,17 +3,26 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsadikaslam&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/syedsadikaslam?label=Followers&style=for-the-badge&color=blue" />
+  <img
+    src="https://komarev.com/ghpvc/?username=syedsadikaslam&label=Profile%20Views&color=brightgreen&style=for-the-badge"
+    height="28"
+  />
 
   <a href="https://sadikaslam.in/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-orange?style=for-the-badge" />
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-Visit-orange?style=for-the-badge"
+      height="28"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/Md-Sadik-9104a2252" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+      height="28"
+    />
   </a>
 </p>
+
 
 
 ---
