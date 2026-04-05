@@ -127,6 +127,12 @@ React.js | Express.js | Node.js | Google Gemini API *(gemini-2.5-flash)* | Multe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🚀 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsadikaslam&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+</div>
+---
 
 ## 🌐 Coding & Professional Profiles
 - 💼 GitHub: https://github.com/syedsadikaslam  
