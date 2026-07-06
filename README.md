@@ -29,12 +29,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 4th Year **B.Tech (Computer Science)** Student  
-🏫 **Dr. A.P.J. Abdul Kalam Technical University**  
-📍 **Delhi, India**
+💼 **Full Stack Engineer**
+🚀 Building scalable, responsive, and user-centric web applications using modern technologies.
 
-I am a passionate **Full-Stack Developer** with hands-on experience in **MERN Stack** and a growing interest in **AI/ML & Generative AI**.  
-I love building **scalable web applications**, clean UI, and solving real-world problems through technology.
+I specialize in the **MERN Stack**, **Laravel**, and **PHP**, with hands-on experience in designing and developing full-stack applications from frontend interfaces to backend APIs and databases.
+
+I'm passionate about solving real-world problems through technology and continuously expanding my expertise in **AI**, **Generative AI**, **Cloud Deployment**, and **System Design**.
 
  ---
 
