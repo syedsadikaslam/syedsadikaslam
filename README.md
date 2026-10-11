@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=170&section=header&text=Hi%20👋,%20I'm%20Sadik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=22D3EE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;REST+API+%7C+JWT+Auth+%7C+CI%2FCD;Problem+Solver+%7C+DSA+Enthusiast;Open+to+Internship+Opportunities+🚀)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img
