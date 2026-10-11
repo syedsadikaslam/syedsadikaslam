@@ -7,8 +7,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=syedsadikaslam&label=Profile%20Views&color=brightgreen&style=for-the-badge"
-    height="28"
+  src="https://komarev.com/ghpvc/?username=syedsadikaslam&label=Profile%20Views&color=brightgreen&style=for-the-badge&cb=1"
+  height="28"
   />
   &nbsp;
   <a href="https://www.linkedin.com/in/sadikaslam/" target="_blank">
